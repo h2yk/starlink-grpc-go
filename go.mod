@@ -1,4 +1,4 @@
-module github.com/starlink-community/starlink-grpc-go
+module github.com/h2yk/starlink-grpc-go
 
 go 1.14
 
